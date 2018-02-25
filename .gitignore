@@ -1,0 +1,3 @@
+*.geojson
+*.zip
+.DS_Store
